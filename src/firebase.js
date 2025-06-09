@@ -4,7 +4,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore"; // 추가
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDWwGzJ14-GGFhLwrJlaFBpWzKc13wpnK4",
+  apiKey: "",
   authDomain: "software-web-ecfce.firebaseapp.com",
   projectId: "software-web-ecfce",
   storageBucket: "software-web-ecfce.appspot.com", // 수정 완료
